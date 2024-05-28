@@ -20,3 +20,9 @@
 #### Client / Serveur
 
 - [git-dumper](https://github.com/arthaud/git-dumper) Permet de récupérer un dépôt git (.git) à partir d'un serveur web.
+
+
+#### Cryptologie / Cryptographie
+ 
+- [CyberChef](https://gchq.github.io/CyberChef/) Cryptographie, décryptage, encodage, hachage, analyse de données, etc.
+- [MD5Decrypt](https://md5decrypt.net) Permet de casser des hash MD5,SHA-1, SHA-2... Grosse base de données de hash déjà crackés
