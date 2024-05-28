@@ -16,3 +16,7 @@
 
 - Exiftool : Permet de lire et modifier les métadonnées d'un fichier
 
+
+#### Client / Serveur
+
+- [git-dumper](https://github.com/arthaud/git-dumper) Permet de récupérer un dépôt git (.git) à partir d'un serveur web.
