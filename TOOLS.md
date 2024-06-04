@@ -18,7 +18,7 @@
 #### Stéganographie 
 
 - Exiftool : Permet de lire et modifier les métadonnées d'un fichier
-
+- exiv2 : Manipulation des métadonnées d'une image
 
 #### Client / Serveur
 
